@@ -20,7 +20,7 @@ I'm a passionate web developer dedicated to the art of coding. I believe in writ
 
 ### Let's Connect 🌐
 
-- **GitHub**: @andreslossada 
+- **[GitHub]**(https://github.com/dresan22)
 - **LinkedIn**: Andres Lossada 
 - **Portfolio**: andreslossada.vercel.app 
 
