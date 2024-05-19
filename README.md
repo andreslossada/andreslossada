@@ -20,9 +20,9 @@ I'm a passionate web developer dedicated to the art of coding. I believe in writ
 
 ### Let's Connect 🌐
 
-- **GitHub**: @andreslossada (Replace with your GitHub URL)
-- **LinkedIn**: Andres Lossada (Replace with your LinkedIn URL)
-- **Portfolio**: andreslossada.dev (Replace with your portfolio URL)
+- **GitHub**: @andreslossada 
+- **LinkedIn**: Andres Lossada 
+- **Portfolio**: andreslossada.vercel.app 
 
 Feel free to reach out for collaborations or just a chat about all things web development!
 
