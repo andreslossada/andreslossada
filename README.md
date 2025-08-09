@@ -8,10 +8,6 @@ I craft beautiful and functional websites with a blend of:
 - **HTML & CSS** - Structuring content and styling with precision.
 - **React** - Building dynamic user interfaces with reusable components.
 
-### About Me 🚀
-
-I'm a passionate web developer dedicated to the art of coding. I believe in writing clean, efficient, and accessible code that not only performs well but also provides an engaging user experience.
-
 ### My Work 💻
 
 - **Interactive Websites**: Engaging users with intuitive design and seamless navigation.
@@ -27,4 +23,4 @@ Feel free to reach out for collaborations or just a chat about all things web de
 
 ---
 
-"Code is like art, and I'm painting the digital canvas one line at a time." - Andres Lossada
+"From code to workflow, I make it click." - Andres Lossada
